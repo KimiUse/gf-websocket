@@ -2,10 +2,10 @@
 
 ## function
 
-- 全局广播
-- 单个房间推送
-- 单个用户推送
-- 单个客户端推送
+- Global Broadcast
+- Single room push
+- Single user push
+- Single client push
 
 ## Data format sent by the client
 
