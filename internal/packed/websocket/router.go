@@ -30,18 +30,13 @@ func ProcessData(client *Client, message []byte) {
 	switch request.Event {
 	case Login:
 		LoginController(client, request)
-		break
 	case Join:
 		JoinController(client, request)
-		break
 	case Quit:
 		QuitController(client, request)
-		break
 	case IsApp:
 		IsAppController(client)
-		break
 	case Ping:
 		PingController(client)
-		break
 	}
 }
