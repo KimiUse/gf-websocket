@@ -1,5 +1,5 @@
 # GoFrame websocket
-
+refer to https://goframe.org
 ## function
 
 - Global Broadcast

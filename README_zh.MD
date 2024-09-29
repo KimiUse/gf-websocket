@@ -1,5 +1,5 @@
 # GoFrame websocket 的实现
-
+参考 https://goframe.org
 ## 实现功能
 
 - 全局广播
